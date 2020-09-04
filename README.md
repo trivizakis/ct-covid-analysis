@@ -1,4 +1,4 @@
-# CT-Covid-19 Deep Learning Analysis
+# CT Covid-19 Deep Learning Analysis
 
 
 <hr>
