@@ -1,7 +1,11 @@
-# ct-covid-analysis
+# CT-Covid-19 Deep Learning Analysis
 
+
+<hr>
 published: 
 
+
+<hr>
 Abstract.
 The coronavirus pandemic and its unprecedented consequences, globally has spurred the interest of the Artificial Intelligence research community.
 A plethora of published papers have investigated the role of imaging such as chest x-rays and computer tomography in COVID-19 automated diagnosis.
@@ -12,3 +16,17 @@ VGG-19 based model for COVID-19 versus pneumonia differentiation exhibiting an a
 baseline model trained with no segmentation in selected tomographic slices of the same dataset. The presented study highlights the importance of a robust
 preprocessing protocol for image analysis within a heterogeneous imaging dataset and assesses the potential diagnostic value of the presented COVID-19 model
 by comparing its performance to the state of the art.
+
+
+<hr>
+use hypes file with:
+https://github.com/trivizakis/easyConvNet
+
+<hr>
+
+if you find this useful
+
+please cite my work:
+
+
+https://scholar.google.com/citations?user=CFsNV_4AAAAJ&hl=en&oi=ao
